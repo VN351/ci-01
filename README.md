@@ -41,7 +41,7 @@
 ![alt text](https://github.com/VN351/ci-01/raw/main/images/1-5.png)
 6. Если всё отработалось в рамках ожидания — выгрузите схемы workflow для импорта в XML. Файлы с workflow и скриншоты workflow приложите к решению задания.
 
-https://github.com/VN351/ci-01/raw/main/files/Bug.xml
+https://github.com/VN351/ci-01/raw/main/files/Bug.xml <br>
 https://github.com/VN351/ci-01/raw/main/files/Other.xml
 
 ---
